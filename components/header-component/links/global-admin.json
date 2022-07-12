@@ -1,0 +1,145 @@
+[
+  {
+    "module": "Админ",
+    "section": "Управление",
+    "menu": "Группа Компаний",
+    "item": "Компании",
+    "route": "/admin/management/organization/organizations"
+  },
+  {
+    "module": "Админ",
+    "section": "Управление",
+    "menu": "Группа Компаний",
+    "item": "Группы компаний",
+    "route": "/admin/management/organization/organizations-group"
+  },
+
+
+  {
+    "module": "Админ",
+    "section": "Управление",
+    "menu": "Права",
+    "item": "Группы методов",
+    "route": "/admin/management/roles-and-permissions/permission-groups"
+  },
+  {
+    "module": "Админ",
+    "section": "Управление",
+    "menu": "Права",
+    "item": "Бизнес процессы",
+    "route": "/admin/management/roles-and-permissions/business-processes"
+  },
+  {
+    "module": "Админ",
+    "section": "Управление",
+    "menu": "Права",
+    "item": "Роли",
+    "route": "/admin/management/roles-and-permissions/user-role"
+  },
+  {
+    "module": "Админ",
+    "section": "Управление",
+    "menu": "Права",
+    "item": "Роли и бизнес процессы",
+    "route": "/admin/management/roles-and-permissions/permissions-by-user-role"
+  },
+
+  {
+    "module": "Админ",
+    "section": "Управление",
+    "menu": "Права",
+    "item": "Список модулей",
+    "route": "/admin/management/roles-and-permissions/modules"
+  },
+  {
+    "module": "Админ",
+    "section": "Управление",
+    "menu": "Права",
+    "item": "Доступ к модулям",
+    "route": "/admin/management/roles-and-permissions/organization-group-modules"
+  },
+
+  {
+    "module": "Админ",
+    "section": "Управление",
+    "menu": "Права",
+    "item": "Список разработчиков",
+    "route": "/admin/management/roles-and-permissions/developers"
+  },
+  {
+    "module": "Админ",
+    "section": "Управление",
+    "menu": "Права",
+    "item": "БЗ лайт",
+    "route": "/admin/management/roles-and-permissions/activation"
+  },
+
+
+  {
+    "module": "Админ",
+    "section": "Управление",
+    "menu": "Помощь",
+    "item": "Корень",
+    "route": "/admin/management/help-builder/root"
+  },
+  {
+    "module": "Админ",
+    "section": "Управление",
+    "menu": "Помощь",
+    "item": "Модули",
+    "route": "/admin/management/help-builder/modules"
+  },
+  {
+    "module": "Админ",
+    "section": "Управление",
+    "menu": "Помощь",
+    "item": "Секции",
+    "route": "/admin/management/help-builder/sections"
+  },
+  {
+    "module": "Админ",
+    "section": "Управление",
+    "menu": "Помощь",
+    "item": "Заголовки",
+    "route": "/admin/management/help-builder/articles"
+  },
+  {
+    "module": "Админ",
+    "section": "Управление",
+    "menu": "Помощь",
+    "item": "Подзаголовки",
+    "route": "/admin/management/help-builder/sub-articles"
+  },
+  {
+    "module": "Админ",
+    "section": "Управление",
+    "menu": "Помощь",
+    "item": "Содержание",
+    "route": "/admin/content"
+  },
+
+
+  {
+    "module": "Админ",
+    "section": "Управление",
+    "menu": "Тесты",
+    "item": "Тесты",
+    "route": "/admin/management/test-builder/tests"
+  },
+  {
+    "module": "Админ",
+    "section": "Управление",
+    "menu": "Тесты",
+    "item": "Вопросы",
+    "route": "/admin/management/test-builder/tests-questions"
+  },
+
+
+
+  {
+    "module": "Админ",
+    "section": "Мониторинг",
+    "item": "Сигналы АРМ",
+    "route": "/admin/monitoring/arm-details"
+  }
+]

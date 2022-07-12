@@ -1,0 +1,107 @@
+[
+  {
+    "module": "Агрофакт",
+    "section": "Задания",
+    "item": "Одиночные задания",
+    "route": "/agrofact/assignments/list"
+  },
+  {
+    "module": "Агрофакт",
+    "section": "Задания",
+    "item": "Групповые задания",
+    "route": "/agrofact/assignments/group-list"
+  },
+  {
+    "module": "Агрофакт",
+    "section": "Задания",
+    "item": "Расчет семян",
+    "route": "/agrofact/assignments/seed"
+  },
+  {
+    "module": "Агрофакт",
+    "section": "Задания",
+    "item": "Расчет СЗР",
+    "route": "/agrofact/assignments/chemistry"
+  },
+  {
+    "module": "Агрофакт",
+    "section": "Задания",
+    "item": "Расчет удобрений",
+    "route": "/agrofact/assignments/fertilizer"
+  },
+  {
+    "module": "Агрофакт",
+    "section": "Задания",
+    "item": "Протравка семян",
+    "route": "/agrofact/assignments/seed-mordant"
+  },
+  {
+    "module": "Агрофакт",
+    "section": "Задания",
+    "item": "Списание посевов",
+    "route": "/agrofact/assignments/crop-decommission"
+  },
+
+
+  {
+    "module": "Агрофакт",
+    "section": "Карта",
+    "route": "/agrofact/map"
+  },
+
+
+  {
+    "module": "Агрофакт",
+    "section": "Мониторинг",
+    "item": "Скоростной режим",
+    "route": "/agrofact/monitoring/speedmonitoring"
+  },
+  {
+    "module": "Агрофакт",
+    "section": "Мониторинг",
+    "item": "Простои",
+    "route": "/agrofact/monitoring/downtime"
+  },
+  {
+    "module": "Агрофакт",
+    "section": "Мониторинг",
+    "item": "Перегоны",
+    "route": "/agrofact/monitoring/overdrive"
+  },
+  {
+    "module": "Агрофакт",
+    "section": "Мониторинг",
+    "item": "Нет заданий",
+    "route": "/agrofact/monitoring/noassignments"
+  },
+  {
+    "module": "Агрофакт",
+    "section": "Мониторинг",
+    "item": "Нарушение ротации",
+    "route": "/agrofact/monitoring/violationrotation"
+  },
+  {
+    "module": "Агрофакт",
+    "section": "Мониторинг",
+    "item": "Расхождения по выработке",
+    "route": "/agrofact/monitoring/rashozhdeniya-po-vyrabotke"
+  },
+  {
+    "module": "Агрофакт",
+    "section": "Мониторинг",
+    "item": "Слив ГСМ",
+    "route": "/agrofact/monitoring/fuel-deviations"
+  },
+  {
+    "module": "Агрофакт",
+    "section": "Мониторинг",
+    "item": "Расхождение по заправке",
+    "route": "/agrofact/monitoring/refueler-list-monitoring"
+  },
+
+  {
+    "module": "Агрофакт",
+    "section": "Помощь",
+    "route": "/agrofact/help"
+  }
+]

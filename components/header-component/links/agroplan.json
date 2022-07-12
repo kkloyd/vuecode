@@ -1,0 +1,38 @@
+[
+  {
+    "module": "Агроплан",
+    "section": "Посев",
+    "route": "/agroplan/sowings"
+  },
+  {
+    "module": "Агроплан",
+    "section": "Посев",
+    "item": "Список посевов",
+    "route": "/agroplan/sowings/list"
+  },
+
+  {
+    "module": "Агроплан",
+    "section": "Работы",
+    "route": "/agroplan/works"
+  },
+  {
+    "module": "Агроплан",
+    "section": "Работы",
+    "item": "Новая группа работ",
+    "route": "/agroplan/works/form"
+  },
+
+  {
+    "module": "Агроплан",
+    "section": "Карта",
+    "route": "/agroplan/map"
+  },
+
+
+  {
+    "module": "Агроплан",
+    "section": "Помощь",
+    "route": "/agroplan/help"
+  }
+]

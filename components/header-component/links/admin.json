@@ -1,0 +1,50 @@
+[
+  {
+    "module": "Админ",
+    "section": "Пользователь",
+    "item": "Список пользователей",
+    "route": "/admin/user/users"
+  },
+  {
+    "module": "Админ",
+    "section": "Пользователь",
+    "item": "Список пользователей АРМ",
+    "route": "/admin/user/cropbalance-users"
+  },
+  {
+    "module": "Админ",
+    "section": "Пользователь",
+    "item": "Статистика посещений",
+    "route": "/admin/user/page-view-records"
+  },
+
+
+  {
+    "module": "Админ",
+    "section": "Мониторинг",
+    "menu": "Уведомления",
+    "item": "Правила",
+    "route": "/admin/monitoring/notifications/rules"
+  },
+  {
+    "module": "Админ",
+    "section": "Мониторинг",
+    "menu": "Уведомления",
+    "item": "Настройки",
+    "route": "/admin/monitoring/notifications/settings"
+  },
+
+
+  {
+    "module": "Админ",
+    "section": "Карта",
+    "route": "/admin/map"
+  },
+
+
+  {
+    "module": "Админ",
+    "section": "Помощь",
+    "route": "/admin/help"
+  }
+]

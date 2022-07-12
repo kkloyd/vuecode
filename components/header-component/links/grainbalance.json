@@ -1,0 +1,324 @@
+[
+  {
+    "module": "Баланс зерна",
+    "section": "Подработка",
+    "item": "Анализ зерна среднесуточные КАЗ",
+    "route": "/grainbalance/parttime/analysis-card-avg-daily"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Подработка",
+    "item": "Анализ зерна КАЗ до подработки",
+    "route": "/grainbalance/parttime/analysis-card-before"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Подработка",
+    "item": "Анализ зерна КАЗ после подработки",
+    "route": "/grainbalance/parttime/analysis-card-after"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Подработка",
+    "item": "КАЗ на отгрузку",
+    "route": "/grainbalance/parttime/analysis-card-unload"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Подработка",
+    "item": "Акт подработки",
+    "route": "/grainbalance/parttime/grain-processings"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Подработка",
+    "item": "Акт перевода",
+    "route": "/grainbalance/parttime/final-product-translations"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Подработка",
+    "item": "Акт наблюдения",
+    "route": "/grainbalance/parttime/observation-act"
+  },
+
+
+  {
+    "module": "Баланс зерна",
+    "section": "Учет",
+    "item": "Реализация",
+    "route": "/grainbalance/uchet/realization"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Учет",
+    "item": "Бронь на производство",
+    "route": "/grainbalance/uchet/product-reservations"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Учет",
+    "item": "Бронь на дожим",
+    "route": "/grainbalance/uchet/dozhim-reservations"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Учет",
+    "item": "Приказ на отгрузку",
+    "route": "/grainbalance/uchet/order-for-shipment"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Учет",
+    "item": "Продукция вне тока",
+    "route": "/grainbalance/uchet/grain-outside-of-warehouse"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Учет",
+    "item": "Сторонний элеватор",
+    "route": "/grainbalance/uchet/third-party-elevator-grains"
+  },
+
+
+  {
+    "module": "Баланс зерна",
+    "section": "Карта",
+    "route": "/grainbalance/map"
+  },
+
+
+  {
+    "module": "Баланс зерна",
+    "section": "Мониторинг",
+    "item": "Партии с нарушениями",
+    "route": "/grainbalance/monitoring/inventories-report"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Мониторинг",
+    "item": "Отклонения по СКУД",
+    "route": "/grainbalance/monitoring/barrier-deviation-report"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Мониторинг",
+    "item": "Сомнительное взвешивание",
+    "route": "/grainbalance/monitoring/tare-weight-deviation-report"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Мониторинг",
+    "item": "Отклонения по подработке",
+    "route": "/grainbalance/monitoring/grain-processing-deviation-report"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Мониторинг",
+    "item": "Порча продукции",
+    "route": "/grainbalance/monitoring/reduced-final-product-translations"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Мониторинг",
+    "item": "Отчет инфратек",
+    "route": "/grainbalance/monitoring/infratec-report"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Мониторинг",
+    "item": "Изменения трансфера",
+    "route": "/grainbalance/monitoring/change-transfer"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Отчеты",
+    "menu": "Ток",
+    "item": "Журнал весовщика - приход",
+    "route": "/grainbalance/reports/incoming-transfers"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Отчеты",
+    "menu": "Ток",
+    "item": "Журнал весовщика - прием с поля",
+    "route": "/grainbalance/reports/incoming-transfers-field"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Отчеты",
+    "menu": "Ток",
+    "item": "Журнал весовщика - прием вагонов",
+    "route": "/grainbalance/reports/incoming-wagons-report"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Отчеты",
+    "menu": "Ток",
+    "item": "Журнал весовщика - перемещение",
+    "route": "/grainbalance/reports/internal-transfers"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Отчеты",
+    "menu": "Ток",
+    "item": "Журнал весовщика - отгрузка машинами",
+    "route": "/grainbalance/reports/outgoing-transfers"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Отчеты",
+    "menu": "Ток",
+    "item": "Реестр приема зерна",
+    "route": "/grainbalance/reports/grain-registry"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Отчеты",
+    "menu": "Ток",
+    "item": "Движение партии",
+    "route": "/grainbalance/reports/inventory-report"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Отчеты",
+    "menu": "Ток",
+    "item": "Движение по складам",
+    "route": "/grainbalance/reports/warehouse-movement"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Отчеты",
+    "menu": "Ток",
+    "item": "Движение зерна по владельцам",
+    "route": "/grainbalance/reports/owner-report"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Отчеты",
+    "menu": "Ток",
+    "item": "Реестр ТТН",
+    "route": "/grainbalance/reports/ttn-registry-report"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Отчеты",
+    "menu": "Ток",
+    "item": "Журнал весовщика - отгрузка вагонами",
+    "route": "/grainbalance/reports/wagon-weight-report"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Отчеты",
+    "menu": "Ток",
+    "item": "Силосная доска",
+    "route": "/grainbalance/reports/silage-desk"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Отчеты",
+    "menu": "Ток",
+    "item": "Проверочная зачистка",
+    "route": "/grainbalance/reports/preclearing-report"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Отчеты",
+    "menu": "Ток",
+    "item": "Акт уничтожения",
+    "route": "/grainbalance/reports/destruction-acts"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Отчеты",
+    "menu": "Ток",
+    "item": "Справка водителя",
+    "route": "/grainbalance/reports/driver-letter"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Отчеты",
+    "menu": "Ток",
+    "item": "Оперативная сводка",
+    "route": "/grainbalance/reports/owners-operative-informations-report"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Отчеты",
+    "menu": "Ток",
+    "item": "Акт зачистки",
+    "route": "/grainbalance/reports/clearing-act-report"
+  },
+
+  {
+    "module": "Баланс зерна",
+    "section": "Отчеты",
+    "menu": "Организация",
+    "item": "В пути на элеватор",
+    "route": "/grainbalance/reports/transfer-to-elevators"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Отчеты",
+    "menu": "Организация",
+    "item": "Баланс зерна",
+    "route": "/grainbalance/reports/crop-balance-report"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Отчеты",
+    "menu": "Организация",
+    "item": "Талоны комбайнера",
+    "route": "/grainbalance/reports/transfer-parts"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Отчеты",
+    "menu": "Организация",
+    "item": "Валовой сбор по полям",
+    "route": "/grainbalance/reports/fields-gross-yield-report"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Отчеты",
+    "menu": "Организация",
+    "item": "Наличие сельхозпродукции",
+    "route": "/grainbalance/reports/products-availability-report"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Отчеты",
+    "menu": "Организация",
+    "item": "Зерноотходы",
+    "route": "/grainbalance/reports/grain-wastes"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Отчеты",
+    "menu": "Организация",
+    "item": "Движение зерна на элеваторе",
+    "route": "/grainbalance/reports/organization-elevators-grain-report"
+  },
+
+  {
+    "module": "Баланс зерна",
+    "section": "Отчеты",
+    "menu": "Отчеты группы",
+    "item": "Свод движения зерна на элеваторе",
+    "route": "/grainbalance/reports/elevators-grain-report"
+  },
+  {
+    "module": "Баланс зерна",
+    "section": "Отчеты",
+    "menu": "Отчеты группы",
+    "item": "Наличие сельхозпродукции группы",
+    "route": "/grainbalance/reports/products-availability-group-report"
+  },
+
+
+  {
+    "module": "Баланс зерна",
+    "section": "Помощь",
+    "route": "/grainbalance/help"
+  }
+]

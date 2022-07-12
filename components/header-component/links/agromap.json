@@ -1,0 +1,51 @@
+[
+  {
+    "module": "Agromap",
+    "section": "Мониторинг",
+    "item": "Отчет осмотра",
+    "route": "/agromap/notepad/field-surveys"
+  },
+  {
+    "module": "Agromap",
+    "section": "Мониторинг",
+    "item": "Засоренность",
+    "route": "/agromap/notepad/accounting-weediness"
+  },
+  {
+    "module": "Agromap",
+    "section": "Мониторинг",
+    "item": "Маршрут Скаутинга",
+    "route": "/agromap/notepad/scouting-route"
+  },
+
+  {
+    "module": "Agromap",
+    "section": "Поле",
+    "item": "Паспорт поля",
+    "route": "/agromap/field/passport"
+  },
+  {
+    "module": "Agromap",
+    "section": "Поле",
+    "item": "Журнал событий",
+    "route": "/agromap/field/events"
+  },
+  {
+    "module": "Agromap",
+    "section": "Поле",
+    "item": "Севооборот",
+    "route": "/agromap/field/crop-rotation"
+  },
+  {
+    "module": "Agromap",
+    "section": "Поле",
+    "item": "Снимки",
+    "route": "/agromap/field/field-images"
+  },
+  {
+    "module": "Agromap",
+    "section": "Поле",
+    "item": "Агрооперации",
+    "route": "/agromap/field/works-history"
+  }
+]
